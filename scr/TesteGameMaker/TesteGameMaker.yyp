@@ -1,6 +1,8 @@
 {
   "resources": [
+    {"id":{"name":"spr_Inimigo","path":"sprites/spr_Inimigo/spr_Inimigo.yy",},"order":1,},
     {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},"order":0,},
+    {"id":{"name":"obj_Inimigo","path":"objects/obj_Inimigo/obj_Inimigo.yy",},"order":1,},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"order":0,},
     {"id":{"name":"rm_Main","path":"rooms/rm_Main/rm_Main.yy",},"order":0,},
   ],
